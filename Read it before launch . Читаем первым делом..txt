@@ -1,0 +1,26 @@
+vk_token: тут должен быть токен который не используется в tokens.txt ( VK Admin - vk host token )
+check_token: тут должен быть токен группы vk host token настройки сообщество 
+turbo_token: тут должен быть токен группы vk host token настройки сообщество , нужен токен от другой группы
+vk me token  должен быть именно от вк ми ,  получить тут - https://oauth.vk.com/token?grant_type=password&client_id=6146827&client_secret=qVxWRF1CwHERuIrKBnqe&username=LOGIN&password=PASSWORD&v=5.131&2fa_supported=1
+В дискорд боте включите intents ( Privileged Gateway Intents ) все три.
+
+устанавливаем все либы pip install requests pyyaml discord vk_captchasolver xmltodict aiohttp yaml bs4 datetime lxml
+(requests
+pyyaml
+discord
+vk_captchasolver
+lxml
+aiohttp
+bs4)
+
+( если не запускается открываем через Visual Studio и смотрим какую ошибку выдает, может потребовать установить еще какой-нибудь lib ) 
+
+пишем h ( h = help ) и читаем какие команды нам доступны, есть кстати id swapper , скорость +- стабильная . 
+
+далее читаем README ( открыть с помощью блокнота ) - полная инструкция проверяем все шаги и делаем все строго , как там.
+
+если есть вопросы или проблемы писать в чат бота тг - @turbing_bot  отвечу до 12ч .
+
+ставить можете например на пиздатенькие айди, как office  и twilight . Мб получится получить их =) ну или же на id которые вам понравятся .
+
+
